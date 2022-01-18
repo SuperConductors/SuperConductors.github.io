@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe0ba2e617b7984971e23102e8f105d26d04db5ab",
+  "SCAN_LINK": "https://polygonscan.com/address/0xe0ba2e617b7984971e23102e8f105d26d04db5ab",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Super Conductors",
+  "SYMBOL": "SC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/superconductors",
+  "SHOW_BACKGROUND": true
+}
